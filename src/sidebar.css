@@ -1,0 +1,15 @@
+#sidebar{
+	float: left;
+	width: 600px;
+	height: 20px;
+	box-sizing: border-box;
+}
+
+#sidebar ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+#sidebar ul li{
+	display: inline;
+}
