@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import './canvas.css';
 
 class Canvas extends Component{
 	render(){

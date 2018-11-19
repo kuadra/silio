@@ -1,0 +1,12 @@
+.App{
+  width: 600px;
+  height: 500px;
+  background-color: pink;
+}
+
+
+.mainContainer{
+	height: 400px;
+	width: 600px;
+	background-color: yellow;
+}

@@ -7,7 +7,7 @@ class Sidebar extends Component {
       <div id="sidebar">
         <ul>
           <li><a href="/">home</a></li>
-          <li><a href="/bikemodel">Model</a></li>
+          <li><a href="/modelview">Model</a></li>
           <li><a href="index.html?contacts">contacts</a></li>
         </ul>
       </div>
