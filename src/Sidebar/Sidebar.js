@@ -7,8 +7,9 @@ class Sidebar extends Component {
       <div id="sidebar">
         <ul>
           <li><a href="/">home</a></li>
-          <li><a href="/modelview">Model</a></li>
-          <li><a href="index.html?contacts">contacts</a></li>
+          <li><a href="/modelview"> Model</a></li>
+          <li><a href="/login"> login</a></li>
+          <li><a href="/logout"> logout</a></li>
         </ul>
       </div>
     );

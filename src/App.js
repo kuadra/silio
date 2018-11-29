@@ -6,7 +6,7 @@ import Sidebar from './Sidebar/Sidebar.js';
 import Canvas from './Canvas/Canvas.js';
 import ModelView from './ModelView/ModelView.js';
 
-import './css/App.css';
+import './assets/css/App.css';
 
 class App extends Component {
   render() {
